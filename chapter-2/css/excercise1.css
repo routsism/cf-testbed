@@ -1,0 +1,14 @@
+h1  {
+  color: blue;
+}
+ 
+.text-p{
+    color: grey;
+}
+
+
+.container{
+    width:40% ;
+    border: 3px solid  purple ;
+    background-color: lightgrey;
+}

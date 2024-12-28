@@ -1,0 +1,24 @@
+body{
+    background-color: lightgreen;
+}
+
+.aueb-img{
+    width: 1000px;
+    height: auto;
+    border: 2px solid yellow;
+}
+.aueb-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-weight: 400;
+    text-shadow: 2px 2px 0px black;
+    color: #762124;
+    text-align: center;
+    /* border: 2px solid red; */
+    border-top: 2px;
+    border-bottom: 2px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: yellow;
+}
